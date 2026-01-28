@@ -67,6 +67,14 @@ PR 제목 규칙: [ 사이트명 - 주차 ] 작성자명
 📄 Step 4. 노션에 표시  
 [노션으로 이동](https://www.notion.so/2f4ab8281e0481e99fb7db6464ab51bc?source=copy_link)
 
+✅ Step 5. 1주일에 한번 merge(master에 합치기)
+
+```
+git switch (내브랜치 이름)
+git merge (내브랜치 이름)
+```
+* 중요한점 내 폴더만 무조건 수정할 것 
+
 
 ###  **사이트 약어**  
 ```
