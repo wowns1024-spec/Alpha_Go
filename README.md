@@ -1,7 +1,7 @@
 ### 📘 Coding Test Study 
 
 본 저장소는 **부울경 1반 코딩테스트 스터디**를 위한 저장소입니다.  
-**개인 브랜치**에서 작업 후, 매주 **Pull Request(PR)** 를 통해 제출하는 방식으로 진행합니다.
+**개인 브랜치**에서 작업 후, 매주 **Pull Request(PR)** 를 통해 제출하는 방식으로 진행합니다.  
 **제발 본인 이름으로된 폴더와 브랜치만 사용해주세요**
 
 ---
@@ -71,11 +71,11 @@ PR 제목 규칙: [ 사이트명 - 주차 ] 작성자명
 ✅ Step 5. 1주일에 한번 merge(master에 합치기)
 
 ```
-git switch master       // 마스터로 이동
-git pull origin master  // 마스터 최신화
+git switch master         # 마스터로 이동
+git pull origin master    # 마스터 최신화
 git merge (내브랜치 이름)
 
-git push origin master // 하기전에 생각할 것 (깃허브에 업로드)
+git push origin master    # 하기전에 생각할 것 (깃허브에 업로드)
 ```
 * 중요한점 내 폴더만 무조건 수정할 것 
 
