@@ -1,3 +1,4 @@
+
 def solution(arry, commands):
     result = []
     for i, j, k in commands:
@@ -5,3 +6,4 @@ def solution(arry, commands):
         sliced.sort()  #정렬
         result.append(sliced[k-1]) # k번째 수 (k번째 -> k-1)
     return result
+
