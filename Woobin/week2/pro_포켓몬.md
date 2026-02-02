@@ -10,3 +10,9 @@ def solution(nums):
             answer += 1
     return answer
 ```
+
+- 다른 사람 풀이
+``` python
+def solution(ls):
+    return min(len(ls)/2, len(set(ls)))
+```
