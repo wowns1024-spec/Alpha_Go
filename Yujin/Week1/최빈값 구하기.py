@@ -1,6 +1,4 @@
 def solution(array):
-    # .count() 안쓰고 풀어봤습니당!
-
     # 개수 카운트용 리스트 생성 (인덱스 = 해당 원소)
     count = [0] * (max(array)+1)
 
